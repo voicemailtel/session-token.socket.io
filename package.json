@@ -1,0 +1,51 @@
+{
+  "name": "session-token.socket.io",
+  "version": "0.0.1",
+  "description": "Integrate Connect/Express (v3/v4) middleware sessions with socket.io",
+  "author": {
+    "name": "Lucian Marginean",
+    "email": "lucian@voicemailtel.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voicemailtel/session-token.socket.io.git"
+  },
+  "engine": {
+    "node": ">=0.6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "expect.js": "0.x",
+    "mocha": "1.x",
+    "jsonwebtoken":"*"
+  },
+  "main": "./session-token.socket.io.js",
+  "gitHead": "",
+  "bugs": {
+    "url": "https://github.com/voicemailtel/session-token.socket.io/issues"
+  },
+  "homepage": "https://github.com/voicemailtel/session-token.socket.io",
+  "_id": "session-token.socket.io@0.0.1",
+  "scripts": {},
+  "_shasum": "",
+  "_from": "session-token.socket.io@*",
+  "_npmVersion": "2.7.3",
+  "_nodeVersion": "0.10.38",
+  "_npmUser": {
+    "name": "voicemailtel",
+    "email": "lucian@voicemailtel.com"
+  },
+  "dist": {
+    "shasum": "",
+    "tarball": "http://registry.npmjs.org/session-token.socket.io/-/session-token.socket.io-0.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "voicemailtel",
+      "email": "lucian@voicemailtel.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "http://registry.npmjs.org/session-token.socket.io/-/session-token.socket.io-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
